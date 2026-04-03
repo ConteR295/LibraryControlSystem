@@ -1,0 +1,11 @@
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\bin\Debug\net10.0\LibraryControlSystem_Infrastructure.deps.json
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\bin\Debug\net10.0\LibraryControlSystem_Infrastructure.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\bin\Debug\net10.0\LibraryControlSystem_Infrastructure.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.AssemblyInfo.cs
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\refint\LibraryControlSystem_Infrastructure.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\ref\LibraryControlSystem_Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\bin\Debug\net10.0\LibraryControlSystem_Application.deps.json
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\bin\Debug\net10.0\LibraryControlSystem_Application.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\bin\Debug\net10.0\LibraryControlSystem_Application.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\bin\Debug\net10.0\LibraryControlSystem_Domain.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\bin\Debug\net10.0\LibraryControlSystem_Domain.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.csproj.AssemblyReference.cache
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.AssemblyInfoInputs.cache
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.AssemblyInfo.cs
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.csproj.CoreCompileInputs.cache
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryC.5DA4A975.Up2Date
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\refint\LibraryControlSystem_Application.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\ref\LibraryControlSystem_Application.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LibraryControlSystem_Infrastructure/1.0.0": {
+        "runtime": {
+          "LibraryControlSystem_Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryControlSystem_Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
