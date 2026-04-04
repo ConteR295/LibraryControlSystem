@@ -21,8 +21,8 @@ public class AuthorOperationsService
         await _IAuthorOperations.AddAuthorAsync(newAuth);
     }
 
-    public async Task GetAllAuthors()
+    public async Task<List<AuthorEntity>> GetAllAuthors()
     {
-        await _IAuthorOperations.GetAllAuthorsAsync();
+        return await _IAuthorOperations.GetAllAuthorsAsync();
     }
 }

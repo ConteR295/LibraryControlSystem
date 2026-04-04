@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj": {}
+    "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj": {
+    "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj",
         "projectName": "LibraryControlSystem_Domain",
-        "projectPath": "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj",
+        "projectPath": "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\LibraryControlSystem_Domain.csproj",
         "packagesPath": "C:\\Users\\AMIR_U\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\obj\\",
+        "outputPath": "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

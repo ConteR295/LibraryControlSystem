@@ -2,7 +2,7 @@
 
 namespace LibraryControlSystem_Domain.Interfaces;
 
-//* Интерейса,описывающий операции с пользователями
+//* Интерфейс,описывающий операции с пользователями
 public interface IUserOperationsAsync
 {
     public Task AddUserAsync(UserEntity user);

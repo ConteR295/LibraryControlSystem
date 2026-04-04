@@ -17,3 +17,4 @@ C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Persistence\obj\Debug\net10.0\LibraryControlSystem_Persistence.genruntimeconfig.cache
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Persistence\bin\Debug\net10.0\LibraryControlSystem_Infrastructure.dll
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Persistence\bin\Debug\net10.0\LibraryControlSystem_Infrastructure.pdb
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Persistence\obj\Debug\net10.0\LibraryControlSystem_Persistence.sourcelink.json

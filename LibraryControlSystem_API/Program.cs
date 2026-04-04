@@ -33,8 +33,6 @@ class Program
         //создаём провайдер
         using var serviceProvider = services.BuildServiceProvider();
 
-        var serv = serviceProvider.GetService<UserOperationsService>();
-
-        //TODO:Осталось только сделать пользовательский ввод)
+        UserInput.Run(serviceProvider);
     }
 }

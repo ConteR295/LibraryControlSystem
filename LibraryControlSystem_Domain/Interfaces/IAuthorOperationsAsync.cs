@@ -2,7 +2,7 @@
 
 namespace LibraryControlSystem_Domain.Interfaces;
 
-//* Интерейс,описывающий операции с авторами
+//* Интерфейс,описывающий операции с авторами
 public interface IAuthorOperationsAsync
 {
     public Task AddAuthorAsync(AuthorEntity author);

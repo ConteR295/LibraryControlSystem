@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X17xRitzLm0=",
+  "dgSpecHash": "XwjPJ8I3wUQ=",
   "success": true,
-  "projectFilePath": "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_API\\LibraryControlSystem_API.csproj",
+  "projectFilePath": "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_API\\LibraryControlSystem_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AMIR_U\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.5\\microsoft.data.sqlite.core.10.0.5.nupkg.sha512",
     "C:\\Users\\AMIR_U\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.5\\microsoft.entityframeworkcore.10.0.5.nupkg.sha512",

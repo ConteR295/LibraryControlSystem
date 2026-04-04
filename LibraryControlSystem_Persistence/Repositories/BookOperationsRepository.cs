@@ -18,24 +18,31 @@ public class BookOperationsRepository : IBookOperationsAsync
     public async Task AddBookAsync(BookEntity book, int authorId) //Добавление новой книги
     {
         var authorEntity = _dbContext.Authors
-            .First(x => x.Id == authorId);
+            .FirstOrDefault(x => x.Id == authorId);
 
-        book.Author = authorEntity;
-        book.AuthorId = authorId;
+        if (authorEntity is not null)
+        {
+            book.Author = authorEntity;
+            book.AuthorId = authorId;
 
-        authorEntity.Books.Add(book);
+            authorEntity.Books.Add(book);
 
-        await _dbContext.Books
-            .AddAsync(book);
-
-        await _dbContext.SaveChangesAsync();
+            await _dbContext.Books
+                .AddAsync(book);
+            
+            await _dbContext.SaveChangesAsync();
+        }
     }
 
     public async Task DeleteBookAsync(int bookId) //Удаление книги
     {
-        var book = _dbContext.Books.First(x => x.Id == bookId);
-        _dbContext.Books.Remove(book);
-        await _dbContext.SaveChangesAsync();
+        var book = _dbContext.Books.FirstOrDefault(x => x.Id == bookId);
+         
+        if(book is not null)
+        {
+            _dbContext.Books.Remove(book);
+            await _dbContext.SaveChangesAsync();
+        }
     }
 
     public async Task<List<BookEntity>> GetAllBooksAsync() //Получение всех книг

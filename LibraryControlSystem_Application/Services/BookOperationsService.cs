@@ -13,9 +13,15 @@ public class BookOperationsService
         _IBookOperations = IBookOperations;
     }
 
-    public async Task AddBook(BookEntity book,int authorId)
+    public async Task AddBook(string title,int authorId,int year,string genre)
     {
-        if(book == null) throw new ArgumentNullException(nameof(book));
+        var book = new BookEntity
+        {
+            Title = title,
+            Year = year,
+            Genre = genre
+        };
+
         if(authorId < 0) throw new ArgumentOutOfRangeException(nameof(authorId));
 
         await _IBookOperations.AddBookAsync(book,authorId);

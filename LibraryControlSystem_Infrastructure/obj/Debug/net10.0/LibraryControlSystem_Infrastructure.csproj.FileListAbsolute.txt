@@ -9,3 +9,4 @@ C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\refint\LibraryControlSystem_Infrastructure.dll
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.pdb
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\ref\LibraryControlSystem_Infrastructure.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Infrastructure\obj\Debug\net10.0\LibraryControlSystem_Infrastructure.sourcelink.json

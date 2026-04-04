@@ -33,14 +33,17 @@ public class UserOperationsRepository : IUserOperationsAsync
     public async Task LinkAsync(int userId, int bookId) //Соеденения пользователя и книги по их Id
     {
         var userEntity = _dbContext.Users
-                        .First(u => u.Id == userId);
+                        .FirstOrDefault(u => u.Id == userId);
         var bookEntity = _dbContext.Books
-                        .First(b => b.Id == bookId);
+                        .FirstOrDefault(b => b.Id == bookId);
         
-        userEntity.Books.Add(bookEntity);
-        bookEntity.Users.Add(userEntity);
+        if(userEntity is not null && bookEntity is not null)
+        {
+            userEntity.Books.Add(bookEntity);
+            bookEntity.Users.Add(userEntity);
 
-        await _dbContext.SaveChangesAsync();
+            await _dbContext.SaveChangesAsync();
+        }
     }
 
     public async Task UpdateUserAsync(UserEntity updateUser) //Обновление пользователя

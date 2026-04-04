@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GqudrcELHpw=",
+  "dgSpecHash": "WtsSOSdThYA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Persistence\\LibraryControlSystem_Persistence.csproj",
+  "projectFilePath": "c:\\Users\\AMIR_U\\Проекты vs code\\LibraryControlSystem\\LibraryControlSystem_Persistence\\LibraryControlSystem_Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AMIR_U\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\AMIR_U\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

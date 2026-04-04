@@ -13,3 +13,4 @@ C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\refint\LibraryControlSystem_Application.dll
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.pdb
 C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\ref\LibraryControlSystem_Application.dll
+C:\Users\AMIR_U\Проекты vs code\LibraryControlSystem\LibraryControlSystem_Application\obj\Debug\net10.0\LibraryControlSystem_Application.sourcelink.json
